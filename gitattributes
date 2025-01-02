@@ -1,0 +1,9 @@
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.ocx filter=lfs diff=lfs merge=lfs -text
+*.mid filter=lfs diff=lfs merge=lfs -text
+*.pwc filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.db filter=lfs diff=lfs merge=lfs -text
+*.x32 filter=lfs diff=lfs merge=lfs -text
+*.hlp filter=lfs diff=lfs merge=lfs -text
+*.sqlite filter=lfs diff=lfs merge=lfs -text
